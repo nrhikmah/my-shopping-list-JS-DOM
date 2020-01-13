@@ -1,0 +1,8 @@
+.done {
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+li {
+    list-style: square;
+}
